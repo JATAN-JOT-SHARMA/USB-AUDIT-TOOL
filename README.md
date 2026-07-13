@@ -49,20 +49,8 @@ It is built for cybersecurity learning, endpoint protection research, and securi
 - Stores scan history
 - Provides threat summaries
 
----
 
 # 🖥️ Screenshots
-
-(Add your screenshots here)
-
-```
-screenshots/
- ├── dashboard.png
- ├── usb_scan.png
- └── report.png
-```
-
----
 
 # 🏗️ Project Architecture
 
