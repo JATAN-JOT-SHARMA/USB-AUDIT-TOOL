@@ -110,7 +110,7 @@ requests
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/USB-Security-Scanner.git
+https://github.com/JATAN-JOT-SHARMA/USB-AUDIT-TOOL
 ```
 
 Move into project directory:
