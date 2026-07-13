@@ -50,7 +50,6 @@ It is built for cybersecurity learning, endpoint protection research, and securi
 - Provides threat summaries
 
 
-# 🖥️ Screenshots
 
 # 🏗️ Project Architecture
 
@@ -73,8 +72,6 @@ USB Scanner Tool
         |
  User Interface
 ```
-
----
 
 # 🛠️ Technologies Used
 
